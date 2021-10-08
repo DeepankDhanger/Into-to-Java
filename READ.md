@@ -1,0 +1,1 @@
+Casting a floating number To an integer simply rounds the number down.
